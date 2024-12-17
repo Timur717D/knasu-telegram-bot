@@ -1,0 +1,6 @@
+aiohttp
+aiogram
+aiosqlite
+bs4
+lxml
+python-decouple
